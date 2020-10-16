@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<binding value-style="element">
+    <mapping name="Root" class="com.example.client.common.GetCountryRequest" ordered="false">
+        <value name="Name" field="name" usage="optional" />
+    </mapping>
+</binding>
